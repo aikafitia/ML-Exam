@@ -184,7 +184,7 @@ python interfaces/game.py
 
 ## Vidéo de Présentation
 
-🔗 Lien : ****
+🔗 Lien : **Dans le repo GIT**
 
 ---
 
